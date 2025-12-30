@@ -1,6 +1,17 @@
-# Hi, I’m Sai Prakash 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=120&section=header&text=Hai%20Manchikanti&fontSize=40&fontColor=FFFFFF&animation=fadeIn" />
+</p>
 
-⚙️ **DevOps Engineer** | ☁️ **Cloud (Azure)** | 🔁 **CI/CD** | ☸️ **Kubernetes**
+<h3 align="center">⚙️ DevOps Engineer | ☁️ Cloud (Azure) | 🔁 CI/CD | ☸️ Kubernetes</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+</p>
 
 ---
 

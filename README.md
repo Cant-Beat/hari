@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=160&section=header&text=Hai%20Manchikanti&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20Kubernetes&descAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=170&section=header&text=Hai%20Manchikanti&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Azure%20%7C%20Kubernetes%20%7C%20CI/CD&descAlignY=55&animation=fadeIn" />
 </p>
 
 <h3 align="center">
@@ -32,7 +32,7 @@ I care about **production behavior**, not just tools.
 - ☸️ Kubernetes (AKS)
 - 🔄 GitOps (ArgoCD)
 - 🧱 Infrastructure as Code (Terraform)
-- 🚀 Production-grade CI/CD
+- 🚀 Production-grade CI/CD pipelines
 
 ---
 
@@ -40,7 +40,7 @@ I care about **production behavior**, not just tools.
 
 ### ☁️ Cloud
 - Azure (VMs, VNets, NSGs, AKS, ACR)
-- Azure AD, RBAC, Managed Identity (basics)
+- Azure AD basics, RBAC, Managed Identity
 
 ### 🔁 CI/CD & DevOps
 - Azure DevOps (YAML pipelines)
@@ -57,7 +57,7 @@ I care about **production behavior**, not just tools.
 ### 🖥️ Systems
 - Linux (Ubuntu)
 - Shell scripting
-- Git & GitHub (PRs, branching)
+- Git & GitHub (PRs, branching, reviews)
 
 ---
 
@@ -68,30 +68,31 @@ I care about **production behavior**, not just tools.
 - Build → Test → Dockerize → Deploy
 - Environment-based deployments
 
-### 🐳 Dockerized Microservices
-- Containerized services
-- Docker Compose for local dev
-- Image optimization & logging
-
 ### ☸️ Kubernetes on AKS
-- Application deployments on AKS
-- Services, Ingress
+- Application deployments on Azure Kubernetes Service
+- Services, Ingress, rolling updates
 - Debugged real cluster issues
 
+### 🐳 Dockerized Microservices
+- Containerized backend services
+- Docker Compose for local development
+- Image optimization & logging
+
 ### 🧱 Terraform Azure Infrastructure
-- Azure infra via Terraform
-- Modular and reusable design
+- Azure infrastructure provisioned using Terraform
+- Modular, reusable design
+- Environment-ready structure
 
 ### 🔄 GitOps with ArgoCD *(In Progress)*
-- Declarative deployments
-- Auto-sync & rollback via Git
+- Declarative deployments using Git
+- Auto-sync and rollback via commits
 
 ---
 
 ## 📈 Learning Timeline
 
 - 🟢 **2023** — Linux, Git, Cloud fundamentals  
-- 🟡 **2024** — Azure, Docker, CI/CD  
+- 🟡 **2024** — Azure, Docker, CI/CD pipelines  
 - 🔵 **2025** — Kubernetes, GitOps, Production DevOps  
 
 ---
@@ -107,8 +108,8 @@ I care about **production behavior**, not just tools.
 ## 📫 Connect With Me
 
 - 🐙 GitHub: https://github.com/Cant-Beat  
-- 💼 LinkedIn: *(add link)*  
-- 📧 Email: *(add email)*  
+- 💼 LinkedIn: *(add your link)*  
+- 📧 Email: *(add your email)*  
 
 ---
 

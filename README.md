@@ -1,44 +1,59 @@
-# 👋 Hi, I'm Sai Prakash
+
+# 👋 Hi, I'm Hari Manchikanti
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:varadasaiprakash9@gmail.com)
-  [![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-green?style=for-the-badge&logo=google-maps)](https://maps.google.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hari-manchikanti-08812832b)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:harimanchikanti23@gmail.com)
+  [![Location](https://img.shields.io/badge/Location-Ontario%2C%20Canada-green?style=for-the-badge&logo=google-maps)](https://maps.google.com)
   
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Infrastructure+Enthusiast;CI%2FCD+Pipeline+Architect;Kubernetes+%26+Terraform+Practitioner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Cloud+Security+Professional;DevOps+%26+Automation;IT+Risk+%26+Compliance;Postgraduate+in+Cybersecurity" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-I'm a **DevOps Engineer** with hands-on experience building production-grade infrastructure and automation pipelines. Currently working as a **Founders Office Associate** at CHAIOMI, where I bridge the gap between product strategy and technical operations.
+I'm a **Cloud & Cybersecurity postgraduate** with hands-on experience in cloud infrastructure, DevOps automation, and security fundamentals. Currently building expertise in **Cloud Security, IT Risk, and Technology Assurance** with a strong foundation in Azure security controls, Terraform, and governance-focused thinking.
 
 ```yaml
-role: DevOps Engineer
-focus:
-  - Building real infrastructure that scales
-  - Understanding how systems fail (and preventing it)
-  - Automating everything repeatable
-  - Production behavior over tool collection
-experience:
-  - 2.5 years in tech operations
-  - 10+ production releases managed
-  - 99.7% uptime maintained
-philosophy: "DevOps is ownership, systems thinking, and execution"
+role: Cloud Security & DevOps Professional
+education:
+  - Postgraduate Diploma in Cybersecurity (Durham College, Canada)
+  - Postgraduate Diploma in Cloud Computing (Durham College, Canada)
+focus_areas:
+  - Cloud Security & Infrastructure
+  - DevOps Automation & CI/CD
+  - IT Risk & Compliance
+  - Security Governance
+mindset: "Foundations first — clean code, clear understanding, steady improvement"
+location: Ontario, Canada
 ```
 
-### 🎯 What Drives Me
+### 🔒 What Drives Me
 
-- 📊 **Data-Driven Decisions**: Improved engagement by 25% through A/B testing and analytics
-- 🔧 **Infrastructure Automation**: Reduced setup time by 60% with Terraform IaC
-- 🚀 **Faster Deployments**: Cut release cycles by 40% with optimized CI/CD pipelines
-- 🛡️ **Reliability**: Decreased production incidents by 45% through automated testing gates
-- 💰 **Cost Optimization**: Improved resource utilization by 35% with Kubernetes
+- 🛡️ **Security-First Mindset**: Applying security best practices in cloud infrastructure design
+- ☁️ **Cloud Infrastructure**: Building secure, scalable Azure environments with IaC
+- 🔄 **DevOps Integration**: Implementing secure CI/CD pipelines and automation
+- 📋 **Compliance Awareness**: Risk assessment and audit-ready documentation
+- 🎓 **Continuous Learning**: AZ-500 track and hands-on project experience
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Content Moderator | Cognizant
+**6 Months | Hyderabad, India**
+
+- Reviewed and moderated large volumes of sensitive content under strict compliance guidelines
+- Applied policy interpretation, risk assessment, and decision consistency in high-pressure environments
+- Maintained confidentiality, accuracy, and audit-ready documentation
+- Developed strong attention to detail, judgment, and escalation handling
+
+> *This role strengthened my risk awareness, compliance mindset, and ability to work within regulated frameworks—skills directly transferable to IT Risk and Cloud Security roles.*
 
 ---
 
@@ -49,87 +64,48 @@ philosophy: "DevOps is ownership, systems thinking, and execution"
 <br/>
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**Services**: VMs, VNets, NSGs, AKS, ACR, Storage Accounts, Azure Monitor, Load Balancers
+**Services**: Azure VMs, VNets, NSGs, AKS (basics), IAM & RBAC, Azure Monitor, Azure Defender
 
 </details>
 
 <details open>
-<summary><b>🔄 DevOps & CI/CD</b></summary>
+<summary><b>🔒 Security & Governance</b></summary>
 <br/>
 
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Security](https://img.shields.io/badge/Azure_Security-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Compliance](https://img.shields.io/badge/Compliance-GRC-green?style=for-the-badge)
 
-**Practices**: GitOps, Automated Testing, Blue-Green Deployments, Canary Releases
-
-</details>
-
-<details open>
-<summary><b>📦 Containers & Orchestration</b></summary>
-<br/>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-
-**Skills**: Multi-stage builds, Container optimization, K8s RBAC, HPA, Ingress Controllers
+- **Azure Security Controls** (AZ-500 aligned)
+- **Identity & Access Management** (IAM/RBAC)
+- **Cloud Security Posture** Management
+- **SOX / ITGC / GRC** Fundamentals
+- **Network Security** (NSGs, Private Networking)
 
 </details>
 
 <details open>
-<summary><b>🏗️ Infrastructure as Code</b></summary>
+<summary><b>🔄 DevOps & Automation</b></summary>
 <br/>
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Expertise**: Modular design, State management, Remote backends, Azure provider, Workspaces
-
-</details>
-
-<details open>
-<summary><b>📊 Monitoring & Logging</b></summary>
-<br/>
-
-![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
-
-**Setup**: ELK Stack implementation, Custom dashboards, Alert configurations, Log aggregation
+**Skills**: Infrastructure as Code (Terraform), CI/CD Pipelines, Container Security, Linux Administration
 
 </details>
 
 <details open>
-<summary><b>💻 Programming & Scripting</b></summary>
+<summary><b>💻 Systems & Scripting</b></summary>
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Use Cases**: Automation scripts, Cron jobs, Log parsing, Infrastructure automation
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & Caching</b></summary>
-<br/>
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔐 Security & Access Control</b></summary>
-<br/>
-
-![Azure AD](https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-**Implemented**: Kubernetes RBAC, GitHub IAM, Managed Identities, Secret management
+**Platforms**: Ubuntu, Windows Server, PowerShell automation, Bash scripting
 
 </details>
 
@@ -139,9 +115,7 @@ philosophy: "DevOps is ownership, systems thinking, and execution"
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </details>
 
@@ -149,151 +123,196 @@ philosophy: "DevOps is ownership, systems thinking, and execution"
 
 ## 📁 Featured Projects
 
-### 🚀 [Azure DevOps CI/CD Pipeline](https://github.com/Cant-Beat/azure-devops-cicd-pipeline)
-**Production-ready YAML pipeline with multi-stage deployments**
+### 🏗️ [Terraform Basics Repository](https://github.com/harimanchikanti/terraform)
+**Learning Infrastructure as Code with GitHub Workflows**
 
 ```yaml
-Tech: Azure DevOps, Docker, AKS, YAML
+Tech: Terraform, GitHub, Azure, IaC
 ```
-- ✅ End-to-end pipeline: Build → Test → Containerize → Deploy
-- ✅ Environment-based deployments (Dev, Staging, Prod)
-- ✅ Automated testing gates and approval workflows
-- ✅ Rollback strategies and deployment health checks
-- 📈 **Impact**: 40% faster release cycles
 
-[View Project →](https://github.com/Cant-Beat/azure-devops-cicd-pipeline)
+**What this project demonstrates:**
+- ✅ Writing clean, modular Terraform code
+- ✅ Managing infrastructure through version control (Git/GitHub)
+- ✅ Understanding IaC principles and best practices
+- ✅ Practicing Git workflows (push/pull/commit)
+- ✅ Environment-based infrastructure deployment patterns
+
+**Why I built this:**  
+To build hands-on confidence with Infrastructure as Code and understand how Terraform integrates into real DevOps pipelines. This is my learning ground for combining cloud infrastructure with security best practices.
+
+**Key Features:**
+- Reusable Terraform modules
+- Environment separation (dev/staging/prod concepts)
+- Clear documentation and commenting
+- Security-focused configurations
+
+[View Project →](https://github.com/harimanchikanti/terraform)
 
 ---
 
-### ☸️ [Production AKS Deployment](https://github.com/Cant-Beat/production-aks-deployment)
-**Scalable Kubernetes infrastructure on Azure**
+### 🚀 [Secure Azure Infrastructure with Terraform](https://github.com/harimanchikanti/azure-secure-infrastructure) `Planned`
+**Production-ready Azure infrastructure with security controls**
 
 ```yaml
-Tech: AKS, Kubernetes, Helm, Ingress-Nginx
+Tech: Terraform, Azure, Security Best Practices
 ```
-- ✅ Multi-service application deployment
-- ✅ Ingress controller with SSL/TLS termination
-- ✅ Rolling updates and health checks
-- ✅ Resource quotas and HPA configuration
-- 📈 **Impact**: 35% better resource utilization
 
-[View Project →](https://github.com/Cant-Beat/production-aks-deployment)
+- ✅ Secure VNet design with public/private subnets
+- ✅ NSG rules and network security implementation
+- ✅ IAM/RBAC configurations
+- ✅ Azure Monitor and logging setup
+- ✅ Compliance-focused documentation
 
 ---
 
-### 🐳 [Dockerized Microservices Architecture](https://github.com/Cant-Beat/dockerized-microservices)
-**Containerized multi-service application**
+### 🔐 [CI/CD Pipeline with Security Gates](https://github.com/harimanchikanti/secure-cicd-pipeline) `In Progress`
+**Secure DevOps pipeline implementation**
 
 ```yaml
-Tech: Docker, Docker Compose, Multi-stage builds
+Tech: GitHub Actions, Azure DevOps, Docker, Security Scanning
 ```
-- ✅ 12+ microservices containerized
-- ✅ Multi-stage builds for optimized images
-- ✅ Docker Compose for local development
-- ✅ Logging and monitoring integration
-- 📈 **Impact**: Reduced image sizes by 60%
 
-[View Project →](https://github.com/Cant-Beat/dockerized-microservices)
-
----
-
-### 🏗️ [Terraform Azure Infrastructure](https://github.com/Cant-Beat/terraform-azure-infrastructure)
-**Infrastructure as Code for Azure resources**
-
-```yaml
-Tech: Terraform, Azure, Modules, Remote State
-```
-- ✅ Modular and reusable Terraform code
-- ✅ VMs, VNets, AKS, Storage accounts provisioning
-- ✅ Remote state management with Azure Storage
-- ✅ Environment separation (dev/staging/prod)
-- 📈 **Impact**: 60% reduction in setup time
-
-[View Project →](https://github.com/Cant-Beat/terraform-azure-infrastructure)
-
----
-
-### 🔄 [GitOps with ArgoCD](https://github.com/Cant-Beat/gitops-argocd) `WIP`
-**Declarative deployments using Git as source of truth**
-
-```yaml
-Tech: ArgoCD, Kubernetes, GitOps, Helm
-```
-- ✅ Automated sync from Git repository
-- ✅ Declarative application definitions
-- ✅ Rollback via Git commits
-- ⏳ Currently implementing health checks and notifications
-
-[View Project →](https://github.com/Cant-Beat/gitops-argocd)
+- ✅ Build → Test → Deploy workflows
+- ✅ Container image scanning
+- ✅ Security checks integrated into pipeline
+- ✅ Artifact management with security controls
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cant-Beat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cant-Beat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harimanchikanti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harimanchikanti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cant-Beat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harimanchikanti&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🎓 Professional Experience
+## 🎓 Education
 
-### 🏢 Founders Office Associate | CHAIOMI
-**Aug 2025 – Present | Hyderabad, India**
+### 🎓 Postgraduate Diploma in Cybersecurity
+**Durham College, Canada**
+- Cloud security fundamentals
+- Network security and monitoring
+- Risk assessment and compliance
+- Security architecture and design
 
-**Product Operations:**
-- Coordinated 10+ production releases across Android/iOS platforms
-- Improved engagement metrics by 25% through A/B testing
-- Built analytics dashboards tracking DAU, retention, conversion (35% reporting efficiency)
-- Translated business requirements into technical specifications
-
-**Technical Operations:**
-- Architected CI/CD pipelines (Azure DevOps + GitHub Actions) → 40% faster releases
-- Containerized 12+ microservices with Docker/Kubernetes → 35% resource optimization
-- Implemented Terraform IaC for Azure resources → 60% setup time reduction
-- Established GitOps workflows → 45% fewer production incidents
-- Maintained 99.7% uptime through monitoring and automation
+### 🎓 Postgraduate Diploma in Cloud Computing
+**Durham College, Canada**
+- Azure cloud infrastructure
+- DevOps and automation
+- Container technologies
+- Infrastructure as Code
 
 ---
 
 ## 📚 Learning Journey
 
-**2023** — Linux, Git, Cloud fundamentals, Azure basics  
-**2024** — Docker, CI/CD pipelines, Azure DevOps, Jenkins  
-**2025** — Kubernetes, AKS, GitOps, Terraform deep-dive, Production patterns
+```
+2023 ───► Linux · Git · Cloud Fundamentals
+         │
+2024 ───► Azure VMs · Networking · IAM
+         │
+2024 ───► Terraform (Infrastructure as Code)
+         │
+2024 ───► CI/CD Pipelines (GitHub Actions & Azure DevOps)
+         │
+2025 ───► Cloud Security (AZ-500 Track)
+         │
+2025 ───► DevOps + Security Integration
+```
+
+### 🎯 Current Focus
+- 🔒 Azure Security (AZ-500 certification track)
+- 🏗️ Secure infrastructure design patterns
+- 📋 IT Risk & GRC frameworks
+- 🔄 DevSecOps practices
+
+---
+
+## 🏗️ Core Skills
+
+### Infrastructure as Code
+- Terraform module development
+- Reusable variables and configurations
+- Environment-based deployments
+- State management and best practices
+
+### Cloud Infrastructure Design
+- Secure VNet architecture
+- Public vs Private subnet planning
+- Network Security Groups (NSGs)
+- Access control and least privilege
+
+### CI/CD Pipelines
+- Build → Test → Deploy workflows
+- Secure pipeline design
+- Artifact management
+- Automated security scanning
+
+### Monitoring & Logging
+- Azure Monitor implementation
+- Log Analytics concepts
+- Security event monitoring
+- Compliance reporting
+
+### Documentation
+- Architecture documentation
+- Deployment procedures
+- Security and compliance notes
+- Audit-ready documentation practices
 
 ---
 
 ## 🎯 What I'm Looking For
 
-I'm open to opportunities in:
+I'm actively seeking **entry-level to junior roles** where I can grow and contribute:
 
-- 🔹 **DevOps Engineer** (Junior to Mid-level)
-- 🔹 **Cloud Engineer** / Platform Engineer
-- 🔹 **Site Reliability Engineer (SRE)**
-- 🔹 **Infrastructure Engineer**
+### 🔹 Target Roles:
+- **Helpdesk Support / IT Technician**
+- **Junior System Administrator**
+- **System Administrator**
+- **Cloud Security Analyst**
+- **Junior Cloud Engineer**
+- **IT Risk Consultant**
+- **Technology Assurance Associate**
 
-**Ideal Environment:**
-- Production systems at scale
-- Infrastructure automation culture
-- Learning-focused teams
-- Ownership and impact
+### 🔹 Ideal Environment:
+- Security-conscious organizations
+- Cloud-first infrastructure teams
+- Learning and mentorship opportunities
+- Regulated industries (finance, healthcare, government)
+- Teams that value foundations and best practices
+
+### 🔹 What I Bring:
+- Strong security and compliance mindset
+- Hands-on cloud infrastructure experience
+- Governance-aware thinking from risk-sensitive background
+- Clear documentation and communication skills
+- Commitment to doing things the right way
 
 ---
 
-## 📝 Latest Blog Posts
+## 💡 My Approach
 
-<!-- BLOG-POST-LIST:START -->
-- [Building Production-Ready CI/CD Pipelines in Azure DevOps](#)
-- [Kubernetes Cost Optimization: 10 Practical Tips](#)
-- [Terraform Best Practices for Azure Infrastructure](#)
-- [Debugging Kubernetes: Common Issues and Solutions](#)
-<!-- BLOG-POST-LIST:END -->
+> **"Foundations first — clean code, clear understanding, and steady improvement."**
+
+### How I Work:
+- 📖 **Learn Deeply**: Focus on understanding concepts, not just tools
+- 🔒 **Security First**: Apply security best practices from the start
+- 📝 **Document Everything**: Maintain audit-ready, clear documentation
+- 🔄 **Iterate Continuously**: Build, test, improve, repeat
+- 🤝 **Collaborate**: Open to feedback and learning from others
+
+### My Values:
+- **Consistency** over sporadic brilliance
+- **Clarity** over complexity
+- **Security** over convenience
+- **Growth** mindset always
 
 ---
 
@@ -301,12 +320,24 @@ I'm open to opportunities in:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai_Prakash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Cant--Beat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cant-Beat)
-[![Email](https://img.shields.io/badge/Email-varadasaiprakash9-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varadasaiprakash9@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hari_Manchikanti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-manchikanti-08812832b)
+[![GitHub](https://img.shields.io/badge/GitHub-harimanchikanti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harimanchikanti)
+[![Email](https://img.shields.io/badge/Email-harimanchikanti23-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harimanchikanti23@gmail.com)
 
 </div>
+
+---
+
+## 📬 Open to Opportunities
+
+I'm currently looking for opportunities in:
+- 🇨🇦 **Ontario, Canada** (open to remote/hybrid)
+- 🌍 **Remote roles** with Canadian companies
+- 🏢 **Entry-level positions** in Cloud Security, IT Risk, or System Administration
+
+**Work Authorization**: Open Work Permit in Canada
+
+**Availability**: Immediate
 
 ---
 
@@ -314,341 +345,340 @@ I'm open to opportunities in:
 
 ### 💭 Philosophy
 
-> *"DevOps is not about tools — it's about ownership, systems thinking, and execution."*
+> *"Early in my career, but consistent, curious, and serious about learning things the right way."*
 
 **⭐ If you find my work interesting, consider starring my repositories!**
 
-![Visitor Count](https://profile-counter.glitch.me/Cant-Beat/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/harimanchikanti/count.svg)
 
 </div>
 
 ################################################################################
 # README.md CONTENT ENDS HERE
 ################################################################################
-# 👋 Hi, I'm Sai Prakash
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:varadasaiprakash9@gmail.com)
-  [![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-green?style=for-the-badge&logo=google-maps)](https://maps.google.com)
-  
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Infrastructure+Enthusiast;CI%2FCD+Pipeline+Architect;Kubernetes+%26+Terraform+Practitioner" alt="Typing SVG" />
-</div>
+################################################################################
+# STEP 2: UPDATE YOUR GITHUB PROFILE
+################################################################################
+# Go to: https://github.com/settings/profile
+# Fill in:
+# - Name: Hari Manchikanti
+# - Bio: Cloud Security | DevOps | IT Risk & GRC | Postgraduate in Cybersecurity from Durham College
+# - Company: Open to Opportunities
+# - Location: Ontario, Canada
+# - Website: https://www.linkedin.com/in/hari-manchikanti-08812832b
 
----
 
-## 🚀 About Me
+################################################################################
+# STEP 3: PROJECT README TEMPLATE (For Terraform Repository)
+################################################################################
+# Use this for your existing terraform repository
 
-I'm a **DevOps Engineer** with hands-on experience building production-grade infrastructure and automation pipelines. Currently working as a **Founders Office Associate** at CHAIOMI, where I bridge the gap between product strategy and technical operations.
+################################################################################
+# TERRAFORM PROJECT README STARTS HERE
+################################################################################
 
-```yaml
-role: DevOps Engineer
-focus:
-  - Building real infrastructure that scales
-  - Understanding how systems fail (and preventing it)
-  - Automating everything repeatable
-  - Production behavior over tool collection
-experience:
-  - 2.5 years in tech operations
-  - 10+ production releases managed
-  - 99.7% uptime maintained
-philosophy: "DevOps is ownership, systems thinking, and execution"
+# 🏗️ Terraform Learning Repository
+
+My hands-on learning space for Infrastructure as Code using Terraform and Azure.
+
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## 📋 Table of Contents
+- [About This Repository](#about-this-repository)
+- [What I'm Learning](#what-im-learning)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Key Concepts Practiced](#key-concepts-practiced)
+- [Security Practices](#security-practices)
+- [Progress Log](#progress-log)
+
+## 🎯 About This Repository
+
+This repository is my learning journey with Terraform and cloud infrastructure. I'm building practical skills in Infrastructure as Code while understanding how real DevOps workflows operate.
+
+### Purpose
+- Learn Terraform syntax and structure
+- Practice Git workflows (commit, push, pull, branching)
+- Understand infrastructure versioning
+- Apply security best practices
+- Build confidence with IaC concepts
+
+### Why This Matters
+Infrastructure as Code is fundamental to modern DevOps and Cloud Security. This repository helps me understand how infrastructure is managed, versioned, and deployed in production environments.
+
+## 📚 What I'm Learning
+
+### Core Terraform Concepts
+- ✅ Basic Terraform syntax and HCL
+- ✅ Resource creation and management
+- ✅ Variables and outputs
+- ✅ State management
+- ✅ Module structure
+- 🔄 Remote state backends (in progress)
+- 🔄 Terraform workspaces (planned)
+
+### Azure Infrastructure
+- ✅ Resource Groups
+- ✅ Virtual Networks (VNets)
+- ✅ Network Security Groups (NSGs)
+- ✅ Virtual Machines
+- 🔄 Azure Key Vault integration (in progress)
+- 🔄 Azure Monitor setup (planned)
+
+### Git Workflows
+- ✅ Committing changes
+- ✅ Branching strategies
+- ✅ Pull requests
+- ✅ Version control for infrastructure
+
+## 📁 Project Structure
+
+```
+terraform/
+│
+├── basics/                    # Learning fundamentals
+│   ├── main.tf
+│   ├── variables.tf
+│   └── outputs.tf
+│
+├── modules/                   # Reusable components
+│   ├── networking/
+│   │   ├── main.tf
+│   │   ├── variables.tf
+│   │   └── outputs.tf
+│   └── compute/
+│       ├── main.tf
+│       ├── variables.tf
+│       └── outputs.tf
+│
+├── environments/              # Environment-specific configs
+│   ├── dev/
+│   ├── staging/
+│   └── prod/
+│
+├── examples/                  # Practice scenarios
+│   ├── simple-vm/
+│   ├── secure-network/
+│   └── complete-infrastructure/
+│
+└── docs/                      # Learning notes
+    ├── commands.md
+    ├── best-practices.md
+    └── troubleshooting.md
 ```
 
-### 🎯 What Drives Me
+## 🚀 Getting Started
 
-- 📊 **Data-Driven Decisions**: Improved engagement by 25% through A/B testing and analytics
-- 🔧 **Infrastructure Automation**: Reduced setup time by 60% with Terraform IaC
-- 🚀 **Faster Deployments**: Cut release cycles by 40% with optimized CI/CD pipelines
-- 🛡️ **Reliability**: Decreased production incidents by 45% through automated testing gates
-- 💰 **Cost Optimization**: Improved resource utilization by 35% with Kubernetes
-
----
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>☁️ Cloud Platforms</b></summary>
-<br/>
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-**Services**: VMs, VNets, NSGs, AKS, ACR, Storage Accounts, Azure Monitor, Load Balancers
-
-</details>
-
-<details open>
-<summary><b>🔄 DevOps & CI/CD</b></summary>
-<br/>
-
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
-**Practices**: GitOps, Automated Testing, Blue-Green Deployments, Canary Releases
-
-</details>
-
-<details open>
-<summary><b>📦 Containers & Orchestration</b></summary>
-<br/>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-
-**Skills**: Multi-stage builds, Container optimization, K8s RBAC, HPA, Ingress Controllers
-
-</details>
-
-<details open>
-<summary><b>🏗️ Infrastructure as Code</b></summary>
-<br/>
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-**Expertise**: Modular design, State management, Remote backends, Azure provider, Workspaces
-
-</details>
-
-<details open>
-<summary><b>📊 Monitoring & Logging</b></summary>
-<br/>
-
-![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
-
-**Setup**: ELK Stack implementation, Custom dashboards, Alert configurations, Log aggregation
-
-</details>
-
-<details open>
-<summary><b>💻 Programming & Scripting</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Use Cases**: Automation scripts, Cron jobs, Log parsing, Infrastructure automation
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & Caching</b></summary>
-<br/>
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔐 Security & Access Control</b></summary>
-<br/>
-
-![Azure AD](https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-**Implemented**: Kubernetes RBAC, GitHub IAM, Managed Identities, Secret management
-
-</details>
-
-<details open>
-<summary><b>🛠️ Tools & Platforms</b></summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</details>
-
----
-
-## 📁 Featured Projects
-
-### 🚀 [Azure DevOps CI/CD Pipeline](https://github.com/Cant-Beat/azure-devops-cicd-pipeline)
-**Production-ready YAML pipeline with multi-stage deployments**
-
-```yaml
-Tech: Azure DevOps, Docker, AKS, YAML
+### Prerequisites
+```bash
+# Check if tools are installed
+terraform --version
+az --version
+git --version
 ```
-- ✅ End-to-end pipeline: Build → Test → Containerize → Deploy
-- ✅ Environment-based deployments (Dev, Staging, Prod)
-- ✅ Automated testing gates and approval workflows
-- ✅ Rollback strategies and deployment health checks
-- 📈 **Impact**: 40% faster release cycles
 
-[View Project →](https://github.com/Cant-Beat/azure-devops-cicd-pipeline)
+### Setup
+```bash
+# Clone the repository
+git clone https://github.com/harimanchikanti/terraform.git
+cd terraform
 
----
+# Login to Azure
+az login
 
-### ☸️ [Production AKS Deployment](https://github.com/Cant-Beat/production-aks-deployment)
-**Scalable Kubernetes infrastructure on Azure**
-
-```yaml
-Tech: AKS, Kubernetes, Helm, Ingress-Nginx
+# Initialize Terraform
+cd basics
+terraform init
 ```
-- ✅ Multi-service application deployment
-- ✅ Ingress controller with SSL/TLS termination
-- ✅ Rolling updates and health checks
-- ✅ Resource quotas and HPA configuration
-- 📈 **Impact**: 35% better resource utilization
 
-[View Project →](https://github.com/Cant-Beat/production-aks-deployment)
+### Basic Workflow
+```bash
+# 1. Write Terraform code
+# Edit main.tf
 
----
+# 2. Format code
+terraform fmt
 
-### 🐳 [Dockerized Microservices Architecture](https://github.com/Cant-Beat/dockerized-microservices)
-**Containerized multi-service application**
+# 3. Validate syntax
+terraform validate
 
-```yaml
-Tech: Docker, Docker Compose, Multi-stage builds
+# 4. Plan changes
+terraform plan
+
+# 5. Apply (in dev only)
+terraform apply
+
+# 6. Commit to Git
+git add .
+git commit -m "feat: add network security group"
+git push
 ```
-- ✅ 12+ microservices containerized
-- ✅ Multi-stage builds for optimized images
-- ✅ Docker Compose for local development
-- ✅ Logging and monitoring integration
-- 📈 **Impact**: Reduced image sizes by 60%
 
-[View Project →](https://github.com/Cant-Beat/dockerized-microservices)
+## 🔑 Key Concepts Practiced
 
----
+### Infrastructure as Code Principles
+- **Version Control**: All infrastructure is tracked in Git
+- **Reproducibility**: Same code = same infrastructure
+- **Documentation**: Code is self-documenting
+- **Collaboration**: Team members can review changes
 
-### 🏗️ [Terraform Azure Infrastructure](https://github.com/Cant-Beat/terraform-azure-infrastructure)
-**Infrastructure as Code for Azure resources**
-
-```yaml
-Tech: Terraform, Azure, Modules, Remote State
+### Terraform Workflow
 ```
-- ✅ Modular and reusable Terraform code
-- ✅ VMs, VNets, AKS, Storage accounts provisioning
-- ✅ Remote state management with Azure Storage
-- ✅ Environment separation (dev/staging/prod)
-- 📈 **Impact**: 60% reduction in setup time
-
-[View Project →](https://github.com/Cant-Beat/terraform-azure-infrastructure)
-
----
-
-### 🔄 [GitOps with ArgoCD](https://github.com/Cant-Beat/gitops-argocd) `WIP`
-**Declarative deployments using Git as source of truth**
-
-```yaml
-Tech: ArgoCD, Kubernetes, GitOps, Helm
+Write → Format → Validate → Plan → Apply → Commit
 ```
-- ✅ Automated sync from Git repository
-- ✅ Declarative application definitions
-- ✅ Rollback via Git commits
-- ⏳ Currently implementing health checks and notifications
 
-[View Project →](https://github.com/Cant-Beat/gitops-argocd)
+### Module Development
+- Creating reusable components
+- Input variables for flexibility
+- Output values for chaining
+- Clear naming conventions
 
----
+## 🔒 Security Practices
 
-## 📊 GitHub Stats
+### Secrets Management
+- ❌ Never commit credentials to Git
+- ✅ Use environment variables
+- ✅ Leverage Azure Key Vault
+- ✅ Use `.gitignore` for sensitive files
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cant-Beat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cant-Beat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
+### Network Security
+- ✅ Implement NSG rules
+- ✅ Use private subnets where appropriate
+- ✅ Apply least privilege access
+- ✅ Enable Azure Monitor logging
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cant-Beat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+### Best Practices
+- State files stored securely
+- Use Terraform workspaces for environments
+- Tag resources for governance
+- Document security decisions
 
----
+## 📈 Progress Log
 
-## 🎓 Professional Experience
+### ✅ Completed
+- Basic Terraform syntax
+- First resource deployment (Resource Group)
+- VNet and subnet creation
+- NSG rules implementation
+- Git workflow understanding
 
-### 🏢 Founders Office Associate | CHAIOMI
-**Aug 2025 – Present | Hyderabad, India**
+### 🔄 In Progress
+- Modular code structure
+- Variable best practices
+- Remote state configuration
 
-**Product Operations:**
-- Coordinated 10+ production releases across Android/iOS platforms
-- Improved engagement metrics by 25% through A/B testing
-- Built analytics dashboards tracking DAU, retention, conversion (35% reporting efficiency)
-- Translated business requirements into technical specifications
+### 📋 Planned
+- Azure Key Vault integration
+- Complete environment separation
+- CI/CD pipeline integration
+- Automated testing
 
-**Technical Operations:**
-- Architected CI/CD pipelines (Azure DevOps + GitHub Actions) → 40% faster releases
-- Containerized 12+ microservices with Docker/Kubernetes → 35% resource optimization
-- Implemented Terraform IaC for Azure resources → 60% setup time reduction
-- Established GitOps workflows → 45% fewer production incidents
-- Maintained 99.7% uptime through monitoring and automation
+## 📖 Learning Resources
 
----
+### Official Documentation
+- [Terraform Documentation](https://www.terraform.io/docs)
+- [Azure Provider Docs](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
+- [Terraform Best Practices](https://www.terraform-best-practices.com/)
 
-## 📚 Learning Journey
+### Commands Cheatsheet
+```bash
+# Initialization
+terraform init          # Initialize working directory
+terraform init -upgrade # Upgrade providers
 
-**2023** — Linux, Git, Cloud fundamentals, Azure basics  
-**2024** — Docker, CI/CD pipelines, Azure DevOps, Jenkins  
-**2025** — Kubernetes, AKS, GitOps, Terraform deep-dive, Production patterns
+# Planning & Applying
+terraform plan          # Preview changes
+terraform apply         # Apply changes
+terraform apply -auto-approve  # Skip confirmation
 
----
+# State Management
+terraform state list    # List resources in state
+terraform state show    # Show resource details
 
-## 🎯 What I'm Looking For
+# Cleanup
+terraform destroy       # Destroy infrastructure
 
-I'm open to opportunities in:
+# Formatting
+terraform fmt           # Format code
+terraform fmt -recursive # Format all files
 
-- 🔹 **DevOps Engineer** (Junior to Mid-level)
-- 🔹 **Cloud Engineer** / Platform Engineer
-- 🔹 **Site Reliability Engineer (SRE)**
-- 🔹 **Infrastructure Engineer**
+# Validation
+terraform validate      # Validate configuration
+```
 
-**Ideal Environment:**
-- Production systems at scale
-- Infrastructure automation culture
-- Learning-focused teams
-- Ownership and impact
+## 🐛 Common Issues & Solutions
 
----
+### Issue 1: Provider Not Found
+```bash
+# Solution: Initialize again
+terraform init -upgrade
+```
 
-## 📝 Latest Blog Posts
+### Issue 2: State Lock
+```bash
+# Solution: Check Azure storage for locks
+# Or force unlock (use carefully)
+terraform force-unlock 
+```
 
-<!-- BLOG-POST-LIST:START -->
-- [Building Production-Ready CI/CD Pipelines in Azure DevOps](#)
-- [Kubernetes Cost Optimization: 10 Practical Tips](#)
-- [Terraform Best Practices for Azure Infrastructure](#)
-- [Debugging Kubernetes: Common Issues and Solutions](#)
-<!-- BLOG-POST-LIST:END -->
+### Issue 3: Authentication Failed
+```bash
+# Solution: Re-authenticate
+az login
+az account show
+```
 
----
+## 🎯 Learning Goals
 
-## 🤝 Let's Connect
+### Short Term (Current)
+- Master Terraform module structure
+- Implement remote state backend
+- Practice Git branching workflows
 
-<div align="center">
+### Medium Term (Next 3 months)
+- Build complete secure infrastructure
+- Integrate with CI/CD pipeline
+- Apply AZ-500 security concepts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai_Prakash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Cant--Beat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cant-Beat)
-[![Email](https://img.shields.io/badge/Email-varadasaiprakash9-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varadasaiprakash9@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white)](#)
+### Long Term (6 months+)
+- Contribute to team infrastructure projects
+- Mentor others in IaC basics
+- Build production-ready templates
 
-</div>
+## 🤝 Feedback Welcome
+
+I'm learning and improving constantly. If you have suggestions or spot issues:
+- 🐛 Open an issue
+- 💡 Share feedback
+- 📧 Email: harimanchikanti23@gmail.com
+
+## 👤 Author
+
+**Hari Manchikanti**
+
+- 🐙 GitHub: [@harimanchikanti](https://github.com/harimanchikanti)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/hari-manchikanti-08812832b)
+- 📧 Email: harimanchikanti23@gmail.com
+- 📍 Location: Ontario, Canada
+
+## 📝 Notes to Self
+
+- Keep commits small and focused
+- Write clear commit messages
+- Document decisions and learnings
+- Review code before pushing
+- Practice regularly, even if small changes
 
 ---
 
 <div align="center">
 
-### 💭 Philosophy
+**🌱 Learning in Public | 📚 Growing Daily | 🔒 Security Focused**
 
-> *"DevOps is not about tools — it's about ownership, systems thinking, and execution."*
-
-**⭐ If you find my work interesting, consider starring my repositories!**
-
-![Visitor Count](https://profile-counter.glitch.me/Cant-Beat/count.svg)
+*This repository represents my commitment to continuous learning and building strong foundations in cloud infrastructure.*
 
 </div>
-
-
-
-

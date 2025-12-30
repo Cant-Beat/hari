@@ -18,20 +18,6 @@
 
 I'm a **Cloud & Cybersecurity postgraduate** with hands-on experience in cloud infrastructure, DevOps automation, and security fundamentals. Currently building expertise in **Cloud Security, IT Risk, and Technology Assurance** with a strong foundation in Azure security controls, Terraform, and governance-focused thinking.
 
-```yaml
-role: Cloud Security & DevOps Professional
-education:
-  - Postgraduate Diploma in Cybersecurity (Durham College, Canada)
-  - Postgraduate Diploma in Cloud Computing (Durham College, Canada)
-focus_areas:
-  - Cloud Security & Infrastructure
-  - DevOps Automation & CI/CD
-  - IT Risk & Compliance
-  - Security Governance
-mindset: "Foundations first — clean code, clear understanding, steady improvement"
-location: Ontario, Canada
-```
-
 ### 🔒 What Drives Me
 
 - 🛡️ **Security-First Mindset**: Applying security best practices in cloud infrastructure design
@@ -125,9 +111,6 @@ location: Ontario, Canada
 ### 🏗️ [Terraform Basics Repository](https://github.com/harimanchikanti/terraform)
 **Learning Infrastructure as Code with GitHub Workflows**
 
-```yaml
-Tech: Terraform, GitHub, Azure, IaC
-```
 
 **What this project demonstrates:**
 - ✅ Writing clean, modular Terraform code
@@ -152,10 +135,6 @@ To build hands-on confidence with Infrastructure as Code and understand how Terr
 ### 🚀 [Secure Azure Infrastructure with Terraform](https://github.com/harimanchikanti/azure-secure-infrastructure) `Planned`
 **Production-ready Azure infrastructure with security controls**
 
-```yaml
-Tech: Terraform, Azure, Security Best Practices
-```
-
 - ✅ Secure VNet design with public/private subnets
 - ✅ NSG rules and network security implementation
 - ✅ IAM/RBAC configurations
@@ -166,10 +145,6 @@ Tech: Terraform, Azure, Security Best Practices
 
 ### 🔐 [CI/CD Pipeline with Security Gates](https://github.com/harimanchikanti/secure-cicd-pipeline) `In Progress`
 **Secure DevOps pipeline implementation**
-
-```yaml
-Tech: GitHub Actions, Azure DevOps, Docker, Security Scanning
-```
 
 - ✅ Build → Test → Deploy workflows
 - ✅ Container image scanning
@@ -186,7 +161,7 @@ Tech: GitHub Actions, Azure DevOps, Docker, Security Scanning
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harimanchikanti&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=harimanchikanti&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -210,20 +185,18 @@ Tech: GitHub Actions, Azure DevOps, Docker, Security Scanning
 ---
 
 ## 📚 Learning Journey
-
-```
 2023 ───► Linux · Git · Cloud Fundamentals
-         │
+│
 2024 ───► Azure VMs · Networking · IAM
-         │
+│
 2024 ───► Terraform (Infrastructure as Code)
-         │
+│
 2024 ───► CI/CD Pipelines (GitHub Actions & Azure DevOps)
-         │
+│
 2025 ───► Cloud Security (AZ-500 Track)
-         │
+│
 2025 ───► DevOps + Security Integration
-```
+
 
 ### 🎯 Current Focus
 - 🔒 Azure Security (AZ-500 certification track)
@@ -351,3 +324,7 @@ I'm currently looking for opportunities in:
 ![Visitor Count](https://profile-counter.glitch.me/harimanchikanti/count.svg)
 
 </div>
+
+
+
+
